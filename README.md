@@ -14,14 +14,14 @@ Here are the resources [we](http://github.com/lewagon) suggest you check out, su
 * [HongKiat](http://www.hongkiat.com/)
 * [Codrops](https://tympanus.net/codrops/)
 * [SmashingMagazine](http://www.smashingmagazine.com)
-* [Six Revisions](sixrevisions.com)
-* [Specky Boy](speckyboy.com)
-* [WebResourcesDepot](webresourcesdepot.com)
-* [DailyJS](dailyjs.com)
-* [David Walsh](davidwalsh.name)
-* [OnextraPixel](onextrapixel.com)
-* [Coding Horror](blog.codinghorror.com)
-* [Scotch.io](scotch.io)
+* [Six Revisions](http://sixrevisions.com)
+* [Specky Boy](http://speckyboy.com)
+* [WebResourcesDepot](http://webresourcesdepot.com)
+* [DailyJS](http://dailyjs.com)
+* [David Walsh](http://davidwalsh.name)
+* [OnextraPixel](http://onextrapixel.com)
+* [Coding Horror](http://blog.codinghorror.com)
+* [Scotch.io](http://scotch.io)
 
 
 **Le Wagon**
