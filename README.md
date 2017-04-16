@@ -1,4 +1,4 @@
-#Build your tech culture. Read.
+Build your tech culture. Read.
 
 ### You are an entrepreneur, business folk, finance person, student or creative kind.
 
@@ -8,7 +8,7 @@ You're not alone.
 
 Here are the resources [we](http://github.com/lewagon) suggest you check out, subscribe and read often to **build up your tech culture**.
 
-##READING LIST
+###📚 READING LIST
 
 * [Hackernoon](http://hackernoon.com/)
 * [HongKiat](http://www.hongkiat.com/)
@@ -26,4 +26,4 @@ Here are the resources [we](http://github.com/lewagon) suggest you check out, su
 
 **Le Wagon**
 
-Our mission is to bring technical skills to creative entrepreneurs. Learn API, Github, front-end development, and much more with us! Join a workshop. Enroll in the bootcamp. Change your life.
+Our mission is to bring technical skills to creative entrepreneurs. Learn API, Github, front-end development, and much more with us! [Join a workshop. Enroll in the bootcamp](https://www.lewagon.com/shanghai). Change your life.
